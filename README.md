@@ -3,7 +3,8 @@
 <h3 align="center">Data Analytics | Data Engineering | SQL | Python | Power BI | AWS | Azure | GCP</h3>
 
 <p align="center">
-Data professional specializing in **analytics engineering, data pipelines, and warehouse analytics**. Experienced in building **end-to-end data platforms** that transform raw data into decision-ready insights.
+Data professional specializing in <b>analytics engineering, data pipelines, and warehouse analytics</b>. <br>
+Experienced in building <b>end-to-end data platforms</b> that transform raw data into decision-ready insights.
 </p>
 
 ---
@@ -57,17 +58,19 @@ Financial transaction analytics platform analyzing fraud patterns and transactio
 
 **Tech Used**  
 
-• Python • SQL • Data Warehouse • Power BI
+• Python (pandas, numpy) • PostgreSQL • dbt • dbt tests  • Power BI  • GitHub  
 
 ---  
 
-## Healthcare Cost Intelligence Platform
+## [Healthcare Cost Intelligence Platform](https://github.com/anandh-data/healthcare-cost-analytics)
 
-Healthcare analytics platform analyzing hospital cost structures and financial efficiency.
+End-to-end analytics engineering project analyzing U.S. hospital utilization using CMS Hospital Cost Reports.
+This project demonstrates a modern cloud analytics stack with data ingestion, data lake storage, warehouse modeling, transformation using dbt, and BI dashboards.
 
 **Tech Used** 
 
-• Python • PostgreSQL • Analytics Engineering • Power BI
+
+• Python • AWS S3 • Snowflake • dbt • dbt models • Power BI • GitHub   
 
 ---
 
